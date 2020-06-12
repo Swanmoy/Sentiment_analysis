@@ -1,2 +1,2 @@
 # Sentiment_analysis
-This repository contains all the ML models created for Social Networking sites sentiment analysis
+This repository contains all the ML models created for Social Networking sites sentiment analysis. In these models we have trained models using twitter dataset for sentiment analysis. I have used NLTK toolkit to properly tokenize the texts and after that I have used several models to fit the dataset and used it for prediction and validation. The main models that I created are using Gradient boosted decision trees, Random Forests, Multi Layer Perceptron model and using tensirflow and keras(mainly embedding, LSTM and RNN layers).
